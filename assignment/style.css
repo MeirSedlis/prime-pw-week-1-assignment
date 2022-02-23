@@ -1,8 +1,27 @@
 /* Give your page a fun background color */
-
 /* Make the header and footer a different color from the background */
+header {
+    background-color: skyblue;
+    color: rgb(63, 73, 43);
+    font-size: 16px;
+    text-align: center;
+}
+body {
+    background-color: seashell;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rebeccapurple;
+}
+footer {
+    background-color: silver;
+    color: maroon;
+    font-style: italic;
+}
+img {border: 8px dotted navy;
+}
 
 /* Align the h1 containing your name in the center of the header*/
+
+/* I chose to align the entire header because there's nothing else here and I didn't want to clutter the code. Would it have been better to be specific and just align h1? Maybe.*/
 
 /* Make your p tag a different color and italic */
 
