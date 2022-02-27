@@ -13,6 +13,8 @@ body {
 }
 footer {
     background-color: silver;
+}
+p {
     color: maroon;
     font-style: italic;
 }
